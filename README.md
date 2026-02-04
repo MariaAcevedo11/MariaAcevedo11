@@ -7,7 +7,7 @@ Curious, disciplined, and allergic to spaghetti code.
 
 Currently building frontend apps and AI models, learning by breaking things (then fixing them properly after crying for 3 hours)
 
-Most of my repositories are for my University classes, however the ones that are not (or I really liked) are pinned onto my profile, [check them out](https://github.com/MariaAcevedo11).
+Most of my repositories are for my University classes, however the ones that are not (or I really liked) are pinned onto my profile, check them out (scroll a little bit).
 
 ---
 ## Technologies
