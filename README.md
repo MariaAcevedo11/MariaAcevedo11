@@ -16,6 +16,8 @@ Most of my repositories are for my University classes, however the ones that are
 ---
 ## Contact me!
 
+Number: +57 310 5327148
+
 Email: mariaacevedos2006@gmail.com 
 
 LinkedIn: https://www.linkedin.com/in/maria-acevedo-41b852361/
