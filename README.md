@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**MariaAcevedo11/MariaAcevedo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm María, software engineering sudent who likes Software Development and AI. 
+I take my code seriously, myself, not so much. 
 
-Here are some ideas to get you started:
+Curious, disciplined, and allergic to spaghetti code. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building frontend apps and AI models, learning by breaking things (then fixing them properly after crying for 3 hours)
+
+Most of my repositories are for my University classes, however the ones that are not (or I really liked) are pinned onto my profile, [check them out](https://github.com/MariaAcevedo11).
+
+---
+## Technologies
+`Python` `Java` `Django` `React` `TypeScript(TSX)`  `Git(duh)` `HTML` `CSS` `Tailwind`    
+
+---
+## Contact me!
+
+Email: mariaacevedos2006@gmail.com 
+
+LinkedIn: https://www.linkedin.com/in/maria-acevedo-41b852361/
+
+
