@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm María, software engineering sudent who likes Software Development and AI. 
+I'm María, software engineering student who likes Software Development and AI. 
 I take my code seriously, myself, not so much. 
 
 Curious, disciplined, and allergic to spaghetti code. 
